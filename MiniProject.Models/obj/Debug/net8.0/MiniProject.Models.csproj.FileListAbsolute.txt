@@ -1,0 +1,12 @@
+C:\Users\hhwan\OneDrive\Desktop\MiniProject\AngularApp1\MiniProject.Models\bin\Debug\net8.0\MiniProject.Models.deps.json
+C:\Users\hhwan\OneDrive\Desktop\MiniProject\AngularApp1\MiniProject.Models\bin\Debug\net8.0\MiniProject.Models.dll
+C:\Users\hhwan\OneDrive\Desktop\MiniProject\AngularApp1\MiniProject.Models\bin\Debug\net8.0\MiniProject.Models.pdb
+C:\Users\hhwan\OneDrive\Desktop\MiniProject\AngularApp1\MiniProject.Models\obj\Debug\net8.0\MiniProject.Models.csproj.AssemblyReference.cache
+C:\Users\hhwan\OneDrive\Desktop\MiniProject\AngularApp1\MiniProject.Models\obj\Debug\net8.0\MiniProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hhwan\OneDrive\Desktop\MiniProject\AngularApp1\MiniProject.Models\obj\Debug\net8.0\MiniProject.Models.AssemblyInfoInputs.cache
+C:\Users\hhwan\OneDrive\Desktop\MiniProject\AngularApp1\MiniProject.Models\obj\Debug\net8.0\MiniProject.Models.AssemblyInfo.cs
+C:\Users\hhwan\OneDrive\Desktop\MiniProject\AngularApp1\MiniProject.Models\obj\Debug\net8.0\MiniProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\hhwan\OneDrive\Desktop\MiniProject\AngularApp1\MiniProject.Models\obj\Debug\net8.0\MiniProject.Models.dll
+C:\Users\hhwan\OneDrive\Desktop\MiniProject\AngularApp1\MiniProject.Models\obj\Debug\net8.0\refint\MiniProject.Models.dll
+C:\Users\hhwan\OneDrive\Desktop\MiniProject\AngularApp1\MiniProject.Models\obj\Debug\net8.0\MiniProject.Models.pdb
+C:\Users\hhwan\OneDrive\Desktop\MiniProject\AngularApp1\MiniProject.Models\obj\Debug\net8.0\ref\MiniProject.Models.dll
