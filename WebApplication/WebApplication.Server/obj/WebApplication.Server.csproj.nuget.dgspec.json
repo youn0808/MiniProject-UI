@@ -4,14 +4,14 @@
     "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\WebApplication\\WebApplication.Server\\WebApplication.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\WebApplication\\WebApplication.Server\\WebApplication.Server.csproj": {
+    "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\MiniProject.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\WebApplication\\WebApplication.Server\\WebApplication.Server.csproj",
-        "projectName": "WebApplication.Server",
-        "projectPath": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\WebApplication\\WebApplication.Server\\WebApplication.Server.csproj",
+        "projectUniqueName": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\MiniProject.Models.csproj",
+        "projectName": "MiniProject.Models",
+        "projectPath": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\MiniProject.Models.csproj",
         "packagesPath": "C:\\Users\\hhwan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\WebApplication\\WebApplication.Server\\obj\\",
+        "outputPath": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hhwan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,80 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\WebApplication\\WebApplication.Server\\WebApplication.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\WebApplication\\WebApplication.Server\\WebApplication.Server.csproj",
+        "projectName": "WebApplication.Server",
+        "projectPath": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\WebApplication\\WebApplication.Server\\WebApplication.Server.csproj",
+        "packagesPath": "C:\\Users\\hhwan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\WebApplication\\WebApplication.Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hhwan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\MiniProject.Models.csproj": {
+                "projectPath": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\MiniProject.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.2.8, )"
+            },
             "Microsoft.AspNetCore.SpaProxy": {
               "target": "Package",
               "version": "[8.*-*, )"

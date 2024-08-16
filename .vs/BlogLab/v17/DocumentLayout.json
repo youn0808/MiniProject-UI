@@ -3,88 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65AD8652-E624-4274-A0FD-936D3D97EB31}|BlogLab.Repository\\BlogLab.Repository.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\bloglab.repository\\blogcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AD8652-E624-4274-A0FD-936D3D97EB31}|BlogLab.Repository\\BlogLab.Repository.csproj|solutionrelative:bloglab.repository\\blogcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AD8652-E624-4274-A0FD-936D3D97EB31}|BlogLab.Repository\\BlogLab.Repository.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\bloglab.repository\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AD8652-E624-4274-A0FD-936D3D97EB31}|BlogLab.Repository\\BlogLab.Repository.csproj|solutionrelative:bloglab.repository\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AD8652-E624-4274-A0FD-936D3D97EB31}|BlogLab.Repository\\BlogLab.Repository.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\bloglab.repository\\iblogcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AD8652-E624-4274-A0FD-936D3D97EB31}|BlogLab.Repository\\BlogLab.Repository.csproj|solutionrelative:bloglab.repository\\iblogcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AD8652-E624-4274-A0FD-936D3D97EB31}|BlogLab.Repository\\BlogLab.Repository.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\bloglab.repository\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AD8652-E624-4274-A0FD-936D3D97EB31}|BlogLab.Repository\\BlogLab.Repository.csproj|solutionrelative:bloglab.repository\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AD8652-E624-4274-A0FD-936D3D97EB31}|BlogLab.Repository\\BlogLab.Repository.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\bloglab.repository\\photorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AD8652-E624-4274-A0FD-936D3D97EB31}|BlogLab.Repository\\BlogLab.Repository.csproj|solutionrelative:bloglab.repository\\photorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9489CC25-60B9-4ABC-B09C-730E9707F166}|MiniProject.Models\\MiniProject.Models.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\miniproject.models\\blog\\pagedresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9489CC25-60B9-4ABC-B09C-730E9707F166}|MiniProject.Models\\MiniProject.Models.csproj|solutionrelative:miniproject.models\\blog\\pagedresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AD8652-E624-4274-A0FD-936D3D97EB31}|BlogLab.Repository\\BlogLab.Repository.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\bloglab.repository\\account.repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AD8652-E624-4274-A0FD-936D3D97EB31}|BlogLab.Repository\\BlogLab.Repository.csproj|solutionrelative:bloglab.repository\\account.repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9489CC25-60B9-4ABC-B09C-730E9707F166}|MiniProject.Models\\MiniProject.Models.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\miniproject.models\\blog\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9489CC25-60B9-4ABC-B09C-730E9707F166}|MiniProject.Models\\MiniProject.Models.csproj|solutionrelative:miniproject.models\\blog\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AD8652-E624-4274-A0FD-936D3D97EB31}|BlogLab.Repository\\BlogLab.Repository.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\bloglab.repository\\iphotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AD8652-E624-4274-A0FD-936D3D97EB31}|BlogLab.Repository\\BlogLab.Repository.csproj|solutionrelative:bloglab.repository\\iphotorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65AD8652-E624-4274-A0FD-936D3D97EB31}|BlogLab.Repository\\BlogLab.Repository.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\bloglab.repository\\bloglab.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{65AD8652-E624-4274-A0FD-936D3D97EB31}|BlogLab.Repository\\BlogLab.Repository.csproj|solutionrelative:bloglab.repository\\bloglab.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9489CC25-60B9-4ABC-B09C-730E9707F166}|MiniProject.Models\\MiniProject.Models.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\miniproject.models\\account\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9489CC25-60B9-4ABC-B09C-730E9707F166}|MiniProject.Models\\MiniProject.Models.csproj|solutionrelative:miniproject.models\\account\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9489CC25-60B9-4ABC-B09C-730E9707F166}|MiniProject.Models\\MiniProject.Models.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\miniproject.models\\account\\applicationuseridentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9489CC25-60B9-4ABC-B09C-730E9707F166}|MiniProject.Models\\MiniProject.Models.csproj|solutionrelative:miniproject.models\\account\\applicationuseridentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9489CC25-60B9-4ABC-B09C-730E9707F166}|MiniProject.Models\\MiniProject.Models.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\miniproject.models\\account\\applicationusercreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9489CC25-60B9-4ABC-B09C-730E9707F166}|MiniProject.Models\\MiniProject.Models.csproj|solutionrelative:miniproject.models\\account\\applicationusercreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C551E4F-6E5B-4A63-ADF7-76BAD912E24E}|WebApplication\\WebApplication.Server\\WebApplication.Server.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\webapplication\\webapplication.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C551E4F-6E5B-4A63-ADF7-76BAD912E24E}|WebApplication\\WebApplication.Server\\WebApplication.Server.csproj|solutionrelative:webapplication\\webapplication.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1C551E4F-6E5B-4A63-ADF7-76BAD912E24E}|WebApplication\\WebApplication.Server\\WebApplication.Server.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\webapplication\\webapplication.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1C551E4F-6E5B-4A63-ADF7-76BAD912E24E}|WebApplication\\WebApplication.Server\\WebApplication.Server.csproj|solutionrelative:webapplication\\webapplication.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9489CC25-60B9-4ABC-B09C-730E9707F166}|MiniProject.Models\\MiniProject.Models.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\miniproject.models\\miniproject.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9489CC25-60B9-4ABC-B09C-730E9707F166}|MiniProject.Models\\MiniProject.Models.csproj|solutionrelative:miniproject.models\\miniproject.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1C551E4F-6E5B-4A63-ADF7-76BAD912E24E}|WebApplication\\WebApplication.Server\\WebApplication.Server.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\webapplication\\webapplication.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C551E4F-6E5B-4A63-ADF7-76BAD912E24E}|WebApplication\\WebApplication.Server\\WebApplication.Server.csproj|solutionrelative:webapplication\\webapplication.server\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65AD8652-E624-4274-A0FD-936D3D97EB31}|BlogLab.Repository\\BlogLab.Repository.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\bloglab.repository\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65AD8652-E624-4274-A0FD-936D3D97EB31}|BlogLab.Repository\\BlogLab.Repository.csproj|solutionrelative:bloglab.repository\\iaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C551E4F-6E5B-4A63-ADF7-76BAD912E24E}|WebApplication\\WebApplication.Server\\WebApplication.Server.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\webapplication\\webapplication.server\\webapplication.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1C551E4F-6E5B-4A63-ADF7-76BAD912E24E}|WebApplication\\WebApplication.Server\\WebApplication.Server.csproj|solutionrelative:webapplication\\webapplication.server\\webapplication.server.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9489CC25-60B9-4ABC-B09C-730E9707F166}|MiniProject.Models\\MiniProject.Models.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\miniproject.models\\exception\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9489CC25-60B9-4ABC-B09C-730E9707F166}|MiniProject.Models\\MiniProject.Models.csproj|solutionrelative:miniproject.models\\exception\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C551E4F-6E5B-4A63-ADF7-76BAD912E24E}|WebApplication\\WebApplication.Server\\WebApplication.Server.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\webapplication\\webapplication.server\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{1C551E4F-6E5B-4A63-ADF7-76BAD912E24E}|WebApplication\\WebApplication.Server\\WebApplication.Server.csproj|solutionrelative:webapplication\\webapplication.server\\changelog.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9489CC25-60B9-4ABC-B09C-730E9707F166}|MiniProject.Models\\MiniProject.Models.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\miniproject.models\\settings\\cloudinaryoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9489CC25-60B9-4ABC-B09C-730E9707F166}|MiniProject.Models\\MiniProject.Models.csproj|solutionrelative:miniproject.models\\settings\\cloudinaryoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C551E4F-6E5B-4A63-ADF7-76BAD912E24E}|WebApplication\\WebApplication.Server\\WebApplication.Server.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\webapplication\\webapplication.server\\webapplication.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C551E4F-6E5B-4A63-ADF7-76BAD912E24E}|WebApplication\\WebApplication.Server\\WebApplication.Server.csproj|solutionrelative:webapplication\\webapplication.server\\webapplication.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9489CC25-60B9-4ABC-B09C-730E9707F166}|MiniProject.Models\\MiniProject.Models.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\miniproject.models\\photo\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9489CC25-60B9-4ABC-B09C-730E9707F166}|MiniProject.Models\\MiniProject.Models.csproj|solutionrelative:miniproject.models\\photo\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A00F81BE-D928-420F-997D-CE7A8CBD1E84}|BlogLab.Services\\BlogLab.Services.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\bloglab.services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00F81BE-D928-420F-997D-CE7A8CBD1E84}|BlogLab.Services\\BlogLab.Services.csproj|solutionrelative:bloglab.services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9489CC25-60B9-4ABC-B09C-730E9707F166}|MiniProject.Models\\MiniProject.Models.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\miniproject.models\\photo\\photocreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9489CC25-60B9-4ABC-B09C-730E9707F166}|MiniProject.Models\\MiniProject.Models.csproj|solutionrelative:miniproject.models\\photo\\photocreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9489CC25-60B9-4ABC-B09C-730E9707F166}|MiniProject.Models\\MiniProject.Models.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\miniproject.models\\blogcomment\\blogcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9489CC25-60B9-4ABC-B09C-730E9707F166}|MiniProject.Models\\MiniProject.Models.csproj|solutionrelative:miniproject.models\\blogcomment\\blogcomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A00F81BE-D928-420F-997D-CE7A8CBD1E84}|BlogLab.Services\\BlogLab.Services.csproj|c:\\users\\hhwan\\onedrive\\desktop\\miniproject\\angularapp1\\bloglab.services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00F81BE-D928-420F-997D-CE7A8CBD1E84}|BlogLab.Services\\BlogLab.Services.csproj|solutionrelative:bloglab.services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,279 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BlogCommentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\BlogLab.Repository\\BlogCommentRepository.cs",
-              "RelativeDocumentMoniker": "BlogLab.Repository\\BlogCommentRepository.cs",
-              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\BlogLab.Repository\\BlogCommentRepository.cs",
-              "RelativeToolTip": "BlogLab.Repository\\BlogCommentRepository.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAADwv1AAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T04:53:50.644Z",
+              "DocumentIndex": 3,
+              "Title": "WebApplication.Server.http",
+              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\WebApplication\\WebApplication.Server\\WebApplication.Server.http",
+              "RelativeDocumentMoniker": "WebApplication\\WebApplication.Server\\WebApplication.Server.http",
+              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\WebApplication\\WebApplication.Server\\WebApplication.Server.http",
+              "RelativeToolTip": "WebApplication\\WebApplication.Server\\WebApplication.Server.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-14T19:50:34.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IBlogCommentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\BlogLab.Repository\\IBlogCommentRepository.cs",
-              "RelativeDocumentMoniker": "BlogLab.Repository\\IBlogCommentRepository.cs",
-              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\BlogLab.Repository\\IBlogCommentRepository.cs",
-              "RelativeToolTip": "BlogLab.Repository\\IBlogCommentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T04:52:47.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PagedResults.cs",
-              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\Blog\\PagedResults.cs",
-              "RelativeDocumentMoniker": "MiniProject.Models\\Blog\\PagedResults.cs",
-              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\Blog\\PagedResults.cs",
-              "RelativeToolTip": "MiniProject.Models\\Blog\\PagedResults.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T04:34:44.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Blog.cs",
-              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\Blog\\Blog.cs",
-              "RelativeDocumentMoniker": "MiniProject.Models\\Blog\\Blog.cs",
-              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\Blog\\Blog.cs",
-              "RelativeToolTip": "MiniProject.Models\\Blog\\Blog.cs",
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\WebApplication\\WebApplication.Server\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApplication\\WebApplication.Server\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\WebApplication\\WebApplication.Server\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApplication\\WebApplication.Server\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T04:27:11.889Z",
+              "WhenOpened": "2024-10-14T19:53:15.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BlogRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\BlogLab.Repository\\BlogRepository.cs",
-              "RelativeDocumentMoniker": "BlogLab.Repository\\BlogRepository.cs",
-              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\BlogLab.Repository\\BlogRepository.cs",
-              "RelativeToolTip": "BlogLab.Repository\\BlogRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T04:23:01.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IBlogRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\BlogLab.Repository\\IBlogRepository.cs",
-              "RelativeDocumentMoniker": "BlogLab.Repository\\IBlogRepository.cs",
-              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\BlogLab.Repository\\IBlogRepository.cs",
-              "RelativeToolTip": "BlogLab.Repository\\IBlogRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T03:42:41.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PhotoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\BlogLab.Repository\\PhotoRepository.cs",
-              "RelativeDocumentMoniker": "BlogLab.Repository\\PhotoRepository.cs",
-              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\BlogLab.Repository\\PhotoRepository.cs",
-              "RelativeToolTip": "BlogLab.Repository\\PhotoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T03:25:01.924Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IPhotoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\BlogLab.Repository\\IPhotoRepository.cs",
-              "RelativeDocumentMoniker": "BlogLab.Repository\\IPhotoRepository.cs",
-              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\BlogLab.Repository\\IPhotoRepository.cs",
-              "RelativeToolTip": "BlogLab.Repository\\IPhotoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T03:21:52.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\Account\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "MiniProject.Models\\Account\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\Account\\ApplicationUser.cs",
-              "RelativeToolTip": "MiniProject.Models\\Account\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T02:30:18.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\WebApplication\\WebApplication.Server\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication\\WebApplication.Server\\appsettings.json",
               "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\WebApplication\\WebApplication.Server\\appsettings.json",
               "RelativeToolTip": "WebApplication\\WebApplication.Server\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-14T02:09:49.999Z",
+              "WhenOpened": "2024-10-14T19:53:14.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BlogLab.Repository.csproj",
-              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\BlogLab.Repository\\BlogLab.Repository.csproj",
-              "RelativeDocumentMoniker": "BlogLab.Repository\\BlogLab.Repository.csproj",
-              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\BlogLab.Repository\\BlogLab.Repository.csproj",
-              "RelativeToolTip": "BlogLab.Repository\\BlogLab.Repository.csproj",
+              "DocumentIndex": 4,
+              "Title": "CHANGELOG.md",
+              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\WebApplication\\WebApplication.Server\\CHANGELOG.md",
+              "RelativeDocumentMoniker": "WebApplication\\WebApplication.Server\\CHANGELOG.md",
+              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\WebApplication\\WebApplication.Server\\CHANGELOG.md",
+              "RelativeToolTip": "WebApplication\\WebApplication.Server\\CHANGELOG.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-10-14T19:53:13.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApplication.Server",
+              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\WebApplication\\WebApplication.Server\\WebApplication.Server.csproj",
+              "RelativeDocumentMoniker": "WebApplication\\WebApplication.Server\\WebApplication.Server.csproj",
+              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\WebApplication\\WebApplication.Server\\WebApplication.Server.csproj",
+              "RelativeToolTip": "WebApplication\\WebApplication.Server\\WebApplication.Server.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-14T01:52:00.756Z",
+              "WhenOpened": "2024-10-14T19:53:05.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\WebApplication\\WebApplication.Server\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication\\WebApplication.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\WebApplication\\WebApplication.Server\\Program.cs",
+              "RelativeToolTip": "WebApplication\\WebApplication.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:47:33.93Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Account.Repository.cs",
-              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\BlogLab.Repository\\Account.Repository.cs",
-              "RelativeDocumentMoniker": "BlogLab.Repository\\Account.Repository.cs",
-              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\BlogLab.Repository\\Account.Repository.cs",
-              "RelativeToolTip": "BlogLab.Repository\\Account.Repository.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAowEQAAABkAAAAAAAAAA==",
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\BlogLab.Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "BlogLab.Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\BlogLab.Services\\TokenService.cs",
+              "RelativeToolTip": "BlogLab.Services\\TokenService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T01:52:10.44Z",
+              "WhenOpened": "2024-10-14T19:32:51.733Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ApplicationUserCreate.cs",
-              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\Account\\ApplicationUserCreate.cs",
-              "RelativeDocumentMoniker": "MiniProject.Models\\Account\\ApplicationUserCreate.cs",
-              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\Account\\ApplicationUserCreate.cs",
-              "RelativeToolTip": "MiniProject.Models\\Account\\ApplicationUserCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\BlogLab.Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "BlogLab.Services\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\BlogLab.Services\\ITokenService.cs",
+              "RelativeToolTip": "BlogLab.Services\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T02:30:25.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ApplicationUserIdentity.cs",
-              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\Account\\ApplicationUserIdentity.cs",
-              "RelativeDocumentMoniker": "MiniProject.Models\\Account\\ApplicationUserIdentity.cs",
-              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\Account\\ApplicationUserIdentity.cs",
-              "RelativeToolTip": "MiniProject.Models\\Account\\ApplicationUserIdentity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T02:30:28.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IAccountRepository.cs",
-              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\BlogLab.Repository\\IAccountRepository.cs",
-              "RelativeDocumentMoniker": "BlogLab.Repository\\IAccountRepository.cs",
-              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\BlogLab.Repository\\IAccountRepository.cs",
-              "RelativeToolTip": "BlogLab.Repository\\IAccountRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T01:44:59.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ApiException.cs",
-              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\Exception\\ApiException.cs",
-              "RelativeDocumentMoniker": "MiniProject.Models\\Exception\\ApiException.cs",
-              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\Exception\\ApiException.cs",
-              "RelativeToolTip": "MiniProject.Models\\Exception\\ApiException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T01:11:43.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CloudinaryOptions.cs",
-              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\Settings\\CloudinaryOptions.cs",
-              "RelativeDocumentMoniker": "MiniProject.Models\\Settings\\CloudinaryOptions.cs",
-              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\Settings\\CloudinaryOptions.cs",
-              "RelativeToolTip": "MiniProject.Models\\Settings\\CloudinaryOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T01:09:55.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MiniProject.Models.csproj",
-              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\MiniProject.Models.csproj",
-              "RelativeDocumentMoniker": "MiniProject.Models\\MiniProject.Models.csproj",
-              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\MiniProject.Models.csproj",
-              "RelativeToolTip": "MiniProject.Models\\MiniProject.Models.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-14T01:09:14.006Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Photo.cs",
-              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\Photo\\Photo.cs",
-              "RelativeDocumentMoniker": "MiniProject.Models\\Photo\\Photo.cs",
-              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\Photo\\Photo.cs",
-              "RelativeToolTip": "MiniProject.Models\\Photo\\Photo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T01:07:50.237Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "PhotoCreate.cs",
-              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\Photo\\PhotoCreate.cs",
-              "RelativeDocumentMoniker": "MiniProject.Models\\Photo\\PhotoCreate.cs",
-              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\Photo\\PhotoCreate.cs",
-              "RelativeToolTip": "MiniProject.Models\\Photo\\PhotoCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T01:06:57.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "BlogComment.cs",
-              "DocumentMoniker": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\BlogComment\\BlogComment.cs",
-              "RelativeDocumentMoniker": "MiniProject.Models\\BlogComment\\BlogComment.cs",
-              "ToolTip": "C:\\Users\\hhwan\\OneDrive\\Desktop\\MiniProject\\AngularApp1\\MiniProject.Models\\BlogComment\\BlogComment.cs",
-              "RelativeToolTip": "MiniProject.Models\\BlogComment\\BlogComment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T01:04:57.726Z",
+              "WhenOpened": "2024-10-14T19:32:03.203Z",
               "EditorCaption": ""
             }
           ]
